@@ -1,6 +1,6 @@
 # AI-SteeringBehavior
 
-Using flock algorithm for car steering with variable colors, speed, sizes.
+Using flock algorithm for car steering with variable colors, speeds, sizes.
 
 ## Output
 
